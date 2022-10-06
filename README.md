@@ -1,5 +1,6 @@
 # ObjectTracking
-640-Project
+Details
+
 1. Review related paper for RCNN Based object tracking approach.
     -  https://sci-hub.hkvisa.net/10.1145/3394171.3416297
     -  https://arxiv.org/pdf/2004.07786.pdf
